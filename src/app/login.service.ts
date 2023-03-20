@@ -18,7 +18,7 @@ export class LoginService {
     {userName:"admin",  password:"admin"},
     {userName:"aditya", password:"123"}
   ]
-
+  
 
   // Method to return all the user details
   getAllUsersDetails(){
